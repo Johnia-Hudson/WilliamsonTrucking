@@ -7,3 +7,6 @@ We chose our color theme because our client did not like the original colors tha
  
 
 The responsiveness of our page took the longest because the media queries were not working. Eventually we got someone to come and help us with working with viewports and screen sizes.  
+
+
+What did each of you work on?
