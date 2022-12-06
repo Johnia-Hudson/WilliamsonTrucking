@@ -24,6 +24,6 @@ The responsiveness of our page took the longest because the media queries were n
 
 Our team has had different perspectives on a lot of things, but in the end we always came up with a solution. At first we didn't know each other. Now we've become closer through teamwork and newfound friendships.
 
-The Trifocals, JCM Early college High 
+The Trifocals, JCM Early College High 
 
 Jadin Springfield, Amaya Williamson, and Johnia Hudson 
